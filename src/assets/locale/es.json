@@ -1,0 +1,30 @@
+{
+  "SiteMeta": {
+    "description": "Plantilla de Next.js 14 next-intl para multi-lenguaje"
+  },
+  "SiteFooter": {
+    "author": "Contruido por"
+  },
+  "LobbyPage": {
+    "pageHeaderTitle": "Plantilla de Next.js 14 Intl",
+    "pageHeaderDescription": "Plantilla de Next.js 14 next-intl para multi-lenguaje.",
+    "pageHeaderLabel": "Repositorio de GitHub",
+    "pageHeaderAction": "¡Regístrate ahora!"
+  },
+  "CallToAction": {
+    "home": "Inicio",
+    "signin": "Inicia sesión",
+    "signup": "Regístrate"
+  },
+  "Locale": {
+    "title": "Cambiar idioma",
+    "en": "English",
+    "es": "Spanish"
+  },
+  "Theme": {
+    "title": "Alternar tema",
+    "light": "Claro",
+    "dark": "Oscuro",
+    "system": "Sistema"
+  }
+}

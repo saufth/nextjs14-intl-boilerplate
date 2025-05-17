@@ -1,0 +1,65 @@
+# [Next.js 14 Intl Boilerplate](https://nextjs14-intl-boilerplate.vercel.app)
+
+A Next.js 14 boilerplate with raw authentication, [next-themes](https://github.com/pacocoursey/next-themes#readme) for dark mode and [next-intl](https://next-intl.dev) for multi-language.
+
+## Tech Stack
+
+- **Framework:** [Next.js](https://nextjs.org)
+- **Styling:** [Tailwind CSS](https://tailwindcss.com)
+- **UI Components:** [shadcn/ui](https://ui.shadcn.com)
+- **Internationalization:** [next-intl](https://next-intl.dev)
+- **Database:** [MySQL](https://www.mysql.com)
+
+## Import Order
+
+- react
+- next
+- i18n
+- env
+- third-party-modules
+- types
+- config
+- lib
+- hooks
+- db
+- components/ui
+- components/layouts
+- components
+- styles
+- assets
+- app
+
+
+## Running Locally
+
+1. Clone the repository
+
+   ```bash
+   git clone https://github.com/saufth/nextjs14-intl-boilerplate.git
+   ```
+
+2. Install dependencies using pnpm
+
+   ```bash
+   pnpm install
+   ```
+
+3. Copy the `.env.example` to `.env` and update the variables.
+
+   ```bash
+   cp .env.example .env.local
+   ```
+
+4. Start the development server
+
+   ```bash
+   pnpm run dev
+   ```
+
+Open [http://localhost:3000](http://localhost:3000) with your browser to see the result.
+
+## Deploy on Vercel
+
+The easiest way to deploy your Next.js app is to use the [Vercel Platform](https://vercel.com/new?utm_medium=default-template&filter=next.js&utm_source=create-next-app&utm_campaign=create-next-app-readme) from the creators of Next.js.
+
+Check out our [Next.js deployment documentation](https://nextjs.org/docs/app/building-your-application/deploying) for more details.
