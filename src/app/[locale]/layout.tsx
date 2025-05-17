@@ -15,7 +15,7 @@ import { TailwindIndicator } from '@/components/tailwind-indicator'
 import { ThemeProvider } from '@/components/providers'
 import '@/app/globals.css'
 
-export async function generateMetadata({ params: { locale } }: LocaleParams) {
+export async function generateMetadata ({ params: { locale } }: LocaleParams) {
   const t = await getTranslations({ locale, namespace: 'SiteMeta' })
   const defaultLocale = LOCALES.find((localeItem) => localeItem.set1 === locale) || LOCALES[0]
 
@@ -69,7 +69,7 @@ export const viewport: Viewport = {
   ]
 }
 
-export default async function RootLayout({
+export default async function RootLayout ({
   children,
   params: { locale }
 }: LayoutWithLocaleProps) {
