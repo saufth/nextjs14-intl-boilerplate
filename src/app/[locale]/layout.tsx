@@ -15,7 +15,7 @@ import { TailwindIndicator } from '@/components/tailwind-indicator'
 import { ThemeProvider } from '@/components/providers'
 import '@/app/globals.css'
 
-export async function generateMetadata ({ params: { locale } }: LocaleParams) {
+export async function generateMetadata({ params: { locale } }: LocaleParams) {
   const t = await getTranslations({ locale, namespace: 'SiteMeta' })
   const defaultLocale = LOCALES.find((localeItem) => localeItem.set1 === locale) || LOCALES[0]
 
@@ -27,8 +27,9 @@ export async function generateMetadata ({ params: { locale } }: LocaleParams) {
     },
     description: t('description'),
     keywords: [
-      'nextjs 14 intl boilerplate',
-      'next-intl'
+      'nextjs 14',
+      'next-intl',
+      'boilerplate'
     ],
     authors: siteConfig.author,
     creator: siteConfig.author.name,
@@ -69,7 +70,7 @@ export const viewport: Viewport = {
   ]
 }
 
-export default async function RootLayout ({
+export default async function RootLayout({
   children,
   params: { locale }
 }: LayoutWithLocaleProps) {
