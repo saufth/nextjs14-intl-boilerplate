@@ -1,6 +1,6 @@
 # [Next.js 14 Intl Boilerplate](https://nextjs14-intl-boilerplate.vercel.app)
 
-A Next.js 14 boilerplate with raw authentication, [next-themes](https://github.com/pacocoursey/next-themes#readme) for dark mode and [next-intl](https://next-intl.dev) for multi-language.
+A Next.js 14 boilerplate with [next-intl](https://next-intl.dev) for multi-language.
 
 ## Tech Stack
 
