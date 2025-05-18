@@ -8,7 +8,6 @@ A Next.js 14 boilerplate with [next-intl](https://next-intl.dev) for multi-langu
 - **Styling:** [Tailwind CSS](https://tailwindcss.com)
 - **UI Components:** [shadcn/ui](https://ui.shadcn.com)
 - **Internationalization:** [next-intl](https://next-intl.dev)
-- **Database:** [MySQL](https://www.mysql.com)
 
 ## Import Order
 
