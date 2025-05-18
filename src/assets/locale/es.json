@@ -1,13 +1,13 @@
 {
   "SiteMeta": {
-    "description": "Plantilla de Next.js 14 next-intl para multi-lenguaje"
+    "description": "Configuración de Next.js 14 usada como punto de partida para nuevos proyectos con next-intl para multi-lenguaje"
   },
   "SiteFooter": {
     "author": "Contruido por"
   },
   "LobbyPage": {
-    "pageHeaderTitle": "Plantilla de Next.js 14 Intl",
-    "pageHeaderDescription": "Plantilla de Next.js 14 next-intl para multi-lenguaje.",
+    "pageHeaderTitle": "Next.js 14 Intl Boilerplate",
+    "pageHeaderDescription": "Configuración de Next.js 14 usada como punto de partida para nuevos proyectos con next-intl para multi-lenguaje.",
     "pageHeaderLabel": "Repositorio de GitHub",
     "pageHeaderAction": "¡Regístrate ahora!"
   },

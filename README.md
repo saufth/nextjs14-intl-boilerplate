@@ -6,8 +6,8 @@ A [Next.js 14](https://nextjs.org/docs/14) configuration used as a starting poin
 
 ## Tech Stack
 
-- **Framework:** [Next.js](https://nextjs.org)
-- **Styling:** [Tailwind CSS](https://tailwindcss.com)
+- **Framework:** [Next.js 14](https://nextjs.org/docs/14)
+- **Styling:** [Tailwind CSS 3](https://v3.tailwindcss.com)
 - **UI Components:** [shadcn/ui](https://ui.shadcn.com)
 - **Internationalization:** [next-intl](https://next-intl.dev)
 

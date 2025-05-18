@@ -10,7 +10,7 @@ const links = {
 
 export const siteConfig = {
   name: 'Next.js 14 Intl Boilerplate',
-  description: 'A Next.js 14 boilerplate with next-intl for multi-language',
+  description: 'A Next.js 14 configuration used as a starting point for new projects with next-intl for multi-language',
   url: env.NEXT_PUBLIC_APP_URL,
   links,
   mainNav: [

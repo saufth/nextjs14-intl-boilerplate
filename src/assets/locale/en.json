@@ -1,13 +1,13 @@
 {
   "SiteMeta": {
-    "description": "A Next.js 14 boilerplate with next-intl for multi-language"
+    "description": "A Next.js 14 configuration used as a starting point for new projects with next-intl for multi-language"
   },
   "SiteFooter": {
     "author": "Built by"
   },
   "LobbyPage": {
     "pageHeaderTitle": "Next.js 14 Intl Boilerplate",
-    "pageHeaderDescription": "A Next.js 14 boilerplate with next-intl for multi-language.",
+    "pageHeaderDescription": "A Next.js 14 configuration used as a starting point for new projects with next-intl for multi-language.",
     "pageHeaderLabel": "GitHub Repository",
     "pageHeaderAction": "Sign up now!"
   },
