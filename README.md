@@ -2,6 +2,8 @@
 
 A Next.js 14 boilerplate with [next-intl](https://next-intl.dev) for multi-language.
 
+[![Next.js 14 Intl Boilerplate](./public/opengraph-image.jpg)](https://nextjs14-intl-boilerplate.vercel.app/)
+
 ## Tech Stack
 
 - **Framework:** [Next.js](https://nextjs.org)
