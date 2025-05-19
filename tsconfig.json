@@ -3,7 +3,7 @@
     /* Base Options: */
     "esModuleInterop": true,
     "skipLibCheck": true,
-    "target": "ES2024",
+    "target": "ES2022",
     "allowJs": true,
     "resolveJsonModule": true,
     "moduleDetection": "force",
@@ -16,7 +16,7 @@
     "lib": [
       "dom",
       "dom.iterable",
-      "ES2024"
+      "ES2022"
     ],
     "noEmit": true,
     "module": "esNext",
