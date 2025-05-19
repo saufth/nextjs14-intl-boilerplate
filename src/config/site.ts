@@ -4,7 +4,7 @@ import { env } from '@/env.mjs'
 
 const links = {
   twitter: 'https://x.com/saufth',
-  github: 'https://github.com/saufth/xpassport',
+  github: 'https://github.com/saufth/nextjs-intl-boilerplate',
   githubAccount: 'https://github.com/saufth'
 }
 
