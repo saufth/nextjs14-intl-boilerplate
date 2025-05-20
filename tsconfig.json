@@ -3,11 +3,10 @@
     /* Base Options: */
     "esModuleInterop": true,
     "skipLibCheck": true,
-    "target": "ES2017",
     "allowJs": true,
     "resolveJsonModule": true,
-    "moduleDetection": "force",
     "isolatedModules": true,
+    "moduleDetection": "force",
     /* Strictness */
     "strict": true,
     "noUncheckedIndexedAccess": true,
@@ -16,11 +15,11 @@
     "lib": [
       "dom",
       "dom.iterable",
-      "ES2017"
+      "esnext"
     ],
     "noEmit": true,
-    "module": "esNext",
-    "moduleResolution": "Bundler",
+    "module": "esnext",
+    "moduleResolution": "bundler",
     "jsx": "preserve",
     "plugins": [
       {
