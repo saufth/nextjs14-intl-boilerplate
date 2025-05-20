@@ -28,7 +28,6 @@ export const fontHeader = localFont({
       style: 'normal'
     }
   ],
-  display: 'swap',
   variable: '--font-sans'
 })
 
@@ -80,6 +79,5 @@ export const fontSans = localFont({
       style: 'normal'
     }
   ],
-  display: 'swap',
   variable: '--font-header'
 })

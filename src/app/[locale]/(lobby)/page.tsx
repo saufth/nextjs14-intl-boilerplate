@@ -68,6 +68,7 @@ export default function LobbyPage () {
           </CallToAction>
         </PageActions>
       </PageHeader>
+      <div className='py-64' />
     </Shell>
   )
 }
